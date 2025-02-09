@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @guruji-byte
-- 👀 I’m interested in ... tech
-- 🌱 I’m currently learning ... nothing 
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 👀 I’m interested in ...#tech
+- 🌱 I’m currently learning ...#nothing 
+- 💞️ I’m looking to collaborate on ...#error
+- 📫 How to reach me ...#error
 
 <!---
 guruji-byte/guruji-byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
